@@ -16,7 +16,8 @@
     "@types/express": "^5.0.3",
     "prisma": "^6.16.3",
     "ts-jest": "^29.4.4",
-    "vitest": "^3.2.4"
+    "vitest": "^3.2.4",
+    "vitest-mock-extended": "^3.1.0"
   },
   "dependencies": {
     "@types/supertest": "^6.0.3",
